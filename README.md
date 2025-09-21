@@ -32,6 +32,7 @@ It helps in **summarization, MCQ generation, note-making, exam preparation, and 
 ---
 
 ## 🏗 Project Architecture (Visual Flow)
+```bash
 
                                       ┌───────────────────────────┐
                                       │        User Input         │
@@ -70,6 +71,9 @@ It helps in **summarization, MCQ generation, note-making, exam preparation, and 
                                                     │
                                                     ▼
                                                     END
+
+```
+
 
 
 ---
