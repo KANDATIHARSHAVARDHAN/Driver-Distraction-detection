@@ -112,5 +112,5 @@ pip install tensorflow keras scikit-learn matplotlib seaborn numpy pandas tqdm
 
 
 
-## 🏗️ CNN Architecture
+
 
